@@ -1,0 +1,86 @@
+Dossiê de Conteúdo Programático - Bachelor of Software Engineering
+Instituição: University of Canberra (Austrália)
+
+Candidato: Matheus Neves Soares Pereira
+
+Finalidade: Documentação de Apoio ao Processo de Revalidação de Diploma (UNIRIO)
+
+1. Apresentação
+Este repositório centraliza a documentação pedagógica detalhada relativa ao curso de Bachelor of Software Engineering (560AA). O objetivo deste índice é facilitar a conferência de equivalência curricular por parte da banca examinadora da UNIRIO, oferecendo acesso organizado aos planos de ensino (Unit Outlines) de todas as disciplinas cursadas.
+
+2. Estrutura do Repositório
+A organização das pastas e arquivos segue o Mapeamento e Índice de Disciplinas (Doc 00) submetido na plataforma Carolina Bori. Cada arquivo detalha:
+
+Objetivos da Disciplina e Conteúdo Programático.
+
+Carga Horária (Padrão de 150h por unidade regular).
+
+Bibliografia Técnica e Métodos de Avaliação.
+
+3. Índice Completo de Disciplinas
+Período: 1/2022
+
+[01] Introduction to Network Engineering (11485) - 150h
+
+[02] Introduction to Information Technology (4478) - 150h
+
+[03] Database Design (5915) - 150h
+
+[04] Professional Practice in IT (7722) - 150h
+
+Período: 2/2022
+
+[05] Systems Analysis and Modelling (11486) - 150h
+
+[06] Security and Support in IT (11488) - 150h
+
+[07] Software Technology 1 (4483) - 150h
+
+[08] Discrete Mathematics (6698) - 150h
+
+Período: 1/2023
+
+[09] Technological Innovation and Entrepreneurship (11408) - 150h
+
+[10] Mobile Technologies (11492) - 150h
+
+[11] Software Technology 2 (7170) - 150h
+
+[12] Introduction to Digital Forensics (9074) - 150h
+
+Período: 2/2023
+
+[13] Software Systems Architecture (11491) - 150h
+
+[14] Advanced Cyber Security (11907) - 150h
+
+[15] Web Design and Programming (7175) - 150h
+
+[16] Contemporary IT & E Issues (9788) - 150h
+
+Período: 1/2024
+
+[17] System Software (11489) - 150h
+
+[18] Information Security (11759) - 150h
+
+[19] Enterprise and Cloud Computing (9281) - 150h
+
+[20] Technology and Engineering Management (9789) - 150h
+
+Período: 2/2024
+
+[21] Network Architecture (11484) - 150h
+
+[22] System and Network Administration (11514) - 150h
+
+[23] Information & Communication Technology Project (9785) - 300h
+
+4. Notas de Conformidade (Resolução UNIRIO 4.835/17)
+Carga Horária e Valor Formativo: Em observância ao Art. 11, § 3º da Resolução, destaca-se que o volume de aprendizado por unidade (150h) é superior à carga horária média das disciplinas em Instituições de Ensino Superior (IES) brasileiras, assegurando a cobertura integral das competências exigidas.
+
+Acreditação ACS: O curso possui acreditação plena pela Australian Computer Society, conforme atestado no documento Projeto_Pedagogico.pdf.
+
+Avaliação Acadêmica: O desempenho global foi registrado com GPA 5,667 (Escala 0-7), equivalente a um aproveitamento de excelência no sistema educacional australiano.
+
+Dica de Navegação: Os arquivos estão nomeados numericamente de 01 a 23 para garantir que a ordem de visualização no GitHub coincida com a ordem cronológica do Histórico Escolar.
